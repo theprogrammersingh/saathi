@@ -1,10 +1,13 @@
 # Saathi (साथी) – Gig Worker Companion & Advocate
 
-[![Test Status](https://img.shields.io/badge/Tests-9%20Passed-emerald.svg)](./src/test)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-success?style=for-the-badge&logo=github)](https://theprogrammersingh.github.io/saathi/)
+
+[![Test Status](https://img.shields.io/badge/Tests-13%20Passed-emerald.svg)](./src/test)
 [![TypeScript](https://img.shields.io/badge/TypeScript-Strict%20Mode-blue.svg)](./tsconfig.json)
 [![WCAG](https://img.shields.io/badge/Accessibility-WCAG%202.1%20AA%20Compliant-purple.svg)]()
 [![Platform](https://img.shields.io/badge/Gig%20Platforms-Zomato%20|%20Swiggy%20|%20Uber%20|%20Blinkit-orange.svg)]()
 
+> 🌐 **Live Application:** [https://theprogrammersingh.github.io/saathi/](https://theprogrammersingh.github.io/saathi/)  
 > **Saathi (साथी)** is an AI-powered conversational companion and advocate for India's 15+ million gig workers (delivery partners, cab drivers, quick-commerce riders). It breaks down complex platform payouts, detects unfair penalty deductions, drafts 1-click legal dispute appeals in formal English with localized Hinglish summaries, and proactively guides workers toward social security rights (e-Shram card, Ayushman Bharat, State Gig Worker Welfare Fund).
 
 ---
